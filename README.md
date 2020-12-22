@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![https://github.com/GregVelarde/GitHub-Project/blob/main/Diagram/Project1_Diagram.PNG]
+[https://github.com/GregVelarde/GitHub-Project/blob/main/Diagram/Project1_Diagram.PNG]
 
 
 
