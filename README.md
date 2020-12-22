@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-(Diagram/Project1_Diagram.PNG)
+[Diagram/Project1_Diagram.PNG]
 
 
 
