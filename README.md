@@ -14,8 +14,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
   - name: download filebeat deb
     command: curl -L -O
-    https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-7.4.0-
-    amd64.deb
+    https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-7.4.0-amd64.deb
 
   - name: install filebeat deb
     command: dpkg -i filebeat-7.4.0-amd64.deb
