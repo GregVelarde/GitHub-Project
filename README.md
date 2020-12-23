@@ -124,4 +124,10 @@ SSH into the control node and follow the steps below:
 - Update host file to include specific IP address of the webserver to make Ansible run of those specific machines. Playbook hosts must be specified which machine to install on.
 - In order to check that the ELK is running navigate to URL http://20.75.50.49:5601/app/kibana.
 
-Command to download playbook is to use curl https://gist.githubusercontent.com/slape/5cc350109583af6cbe577bbcc0710c93/raw/eca603b72586fbe148c11f9c87bf96a63cb25760/Filebeat
+Command to download playbook is to:
+
+- git clone https://github.com/your-username/yourlink.git
+- git pull
+- git add
+- git commit -m
+- git push origin --set-upstream <-branch->
