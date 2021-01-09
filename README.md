@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![plot](https://github.com/GregVelarde/GitHub-Project/blob/main/Diagram/Project1_Diagram.PNG)
+![plot](https://github.com/GregVelarde/GitHub-Project/blob/main/Diagram/ELK-Stack-Project-Diagram.PNG)
 
 
 
