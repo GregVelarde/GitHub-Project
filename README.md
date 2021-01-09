@@ -122,7 +122,7 @@ SSH into the control node and follow the steps below:
 
 - Filebeat-config.yml and metricbeat-config.yml playbook is copied to web server /etc/filebeat for filebeat and /etc/metribeat/ for metribeat.
 - Update host file to include specific IP address of the webserver to make Ansible run of those specific machines. Playbook hosts must be specified which machine to install on.
-- In order to check that the ELK is running navigate to URL http://<ELK.VM.External.IP>:5601/app/kibana.
+- In order to check that the ELK is running navigate to URL http://52.188.20.187>:5601/app/kibana.
 
 Command to download playbook is to:
 
